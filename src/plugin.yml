@@ -1,0 +1,4 @@
+name: ZweiBot
+author: Papiertuch
+version: 1.1
+main: de.einjava.zweibot.BungeeBootstrap
